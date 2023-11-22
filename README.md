@@ -18,8 +18,11 @@ Download or clone this repo by using the link below:
 flutter pub get 
 ```
 
-
 #### Step 3
+Add google-services.json on ./android from firebase
+
+
+#### Step 4
 Download or clone this repo by using the link below:
 
 ```bashx
